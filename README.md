@@ -15,3 +15,4 @@
 ## Making modificações no arquivo
 
 - comando git push
+- comando git pull
