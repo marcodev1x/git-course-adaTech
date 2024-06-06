@@ -13,3 +13,5 @@
 ###### Após modified & salvo é necessário enviar para a staging novamente
 
 ## Making modificações no arquivo
+
+- comando git push
